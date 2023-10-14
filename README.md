@@ -8,7 +8,7 @@ In this repository, we provide a Python implementation of the Fusion-CAM algorit
 ___
 The assiciated papers for this repository are:
 
-- [[`Gatorsense publications page (Fusion-CAM PhD Thesis)`]((https://faculty.eng.ufl.edu/machine-learning/2023/02/discriminative-feature-learning-with-imprecise-uncertain-and-ambiguous-data/))]
+- [[`Gatorsense publications page (Fusion-CAM PhD Thesis)`](https://faculty.eng.ufl.edu/machine-learning/2023/02/discriminative-feature-learning-with-imprecise-uncertain-and-ambiguous-data/)]
 
 - [[`BibTeX`](#CitingFusionCAM)]
 
