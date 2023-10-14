@@ -1,12 +1,9 @@
-# fusion-cam
-Code repository for Fusion-CAM segmentation pseudo-label generation using the Multiple Instance Learning Choquet Integral.
-
 # Fusion-CAM
 **Fusion-CAM: Segmentation Pseudo-label Generation using the Multiple Instance Learning Choquet Integral**
 
 _Connor McCurley_
 
-Python implementation of the Fusion-CAM algorithm.  In this repository, we provide Python code for the Fusion-CAM algorithm.  
+In this repository, we provide a Python implementation of the Fusion-CAM algorithm.  
 
 ___
 The assiciated papers for this repository are:
